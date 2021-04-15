@@ -1,2 +1,2 @@
 # React Hooks + Redux
-Usando React Hooks + Redux pela primeira vez
+Usando React Hooks e Redux pela primeira vez
